@@ -1,2 +1,1 @@
-# TheFortitude
-Rolling Sky Evolution Story
+# Rolling Sky Evolution Story
